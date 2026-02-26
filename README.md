@@ -1,16 +1,15 @@
-## Hi there 👋
+<img width="1280" height="346" alt="image" src="https://github.com/user-attachments/assets/1570832c-60c7-4e02-abd5-d0824e0a6000" />
 
-<!--
-**pilksterS/pilksterS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Simon Pilkington - OpenClaw Maintainer
 
-Here are some ideas to get you started:
+I started my career as a mechanical engineer, designing systems and solving challenges in the automotive and aerospace industries. I have been key to the launch of successful companies in advanced manufacturing, software, and finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I now spend my time thinking about the opportunities and challenges of the near and not-so-near future. I maximise my impact by supporting early stage entrepreneurs focused on exciting new technologies that will create a bright future for humanity and our planet. I am a limited partner at several interesting funds and also an independent angel investor.
+
+Connect:
+
+Twitter / X: https://x.com/pilkster
+
+LinkedIn: https://www.linkedin.com/in/simonjpilkington/
+
+🦞
